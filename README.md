@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+my repo
+- investment
+- data scienc bootcamp
+- fortage vitrul training
+- coursera
+- certificate
+- data analysis
+- data scientist
+
 <!--
 **golfung/golfung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
