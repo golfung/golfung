@@ -15,7 +15,7 @@ So I developed a penchant for analyzing data to find worth opportunities.
 * ✉️  You can contact me at [ntasre@hotmail.com​](mailto:ntasre@hotmail.com​)
 * 🧠  I'm learning Pytorch, Cloud, Backtest, Options
 * 🤝  I'm open to collaborating on Options trading strategies​
-* ⚡  Someone flirted with my daughter. What should I do?​
+* ⚡  Somekid flirted with my daughter. I have to deal with it.:construction_worker:​
 
 ## Visit my project
 * [Investment](https://github.com/golfung/Investment)
